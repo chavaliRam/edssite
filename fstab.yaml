@@ -1,0 +1,2 @@
+mountpoints:
+  /: https://localhost:4502/content/edssite

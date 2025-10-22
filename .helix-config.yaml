@@ -1,0 +1,5 @@
+name: edssite
+owner: your-github-org
+content: content
+branches:
+  - main

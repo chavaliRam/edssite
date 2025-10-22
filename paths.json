@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/content/edssite",
+    "url": "/"
+  },
+  {
+    "path": "/content/edssite/en/home",
+    "url": "/en"
+  },
+  {
+    "path": "/content/edssite/en/about",
+    "url": "/en/about"
+  },
+  {
+    "path": "/content/edssite/en/contact",
+    "url": "/en/contact"
+  }
+]
